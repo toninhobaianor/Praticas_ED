@@ -1,0 +1,32 @@
+
+Antonio Alberto
+2021086504
+turma TF
+
+
+Foi observado que para o fatorial existe um limite de 1 ate 12
+e para o fibonaci e de 1 ate 46.
+
+O tempo de usuario e o tempo de sistema não são muito diferente entre o fatorial recursivo e o fatorial iterativo 
+mas o tempo de relogio alem de ser maior a medida que o numero aumenta e maior para o fatorial recursivo.
+
+No caso do fibonaci recursivo o tempo de usuario começa bem pequeno e depois aumenta explosivamente, 
+enquanto o tempo de relogio cresce junto com o numero.
+E no fibonaci iterativo observamos apenas o aumento do tempo do relogio que não e tão grande em comparação com o recursivo.
+
+Para o fibonaci e o fatorial recursivo quando colocamos uma função que causa muito custo computacional(no meu caso foi o seno de 1000000 * x) 
+o tempo de relogio aumenta exponencialmente assim como o tempo de usuario.
+
+
+//sobre o codigo
+
+Dentro da pasta src tem a 'main' que roda e entrega os valores do fatorial e fibonaci iterativo e recursivo 
+e a 'mainteste' que mostra os valores do tempo de usuario,relogio e sistema.
+
+
+
+
+
+
+
+
