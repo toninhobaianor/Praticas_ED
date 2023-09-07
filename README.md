@@ -1,2 +1,2 @@
 # Praticas_ED
-praticas da materia EStrutura de dados 2023/2
+Praticas da materia Estrutura de dados 2023/2
