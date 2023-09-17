@@ -1,0 +1,3 @@
+Como o fact não foi iniciado com 1 ele pode ser zero ou carregar lixo de memoria o que acarretaria em um fatorial nulo ou incorreto.
+Para resolver basta colocar o fact = 1.
+e por garantia colocar o n = 0.

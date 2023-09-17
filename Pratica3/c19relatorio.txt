@@ -1,0 +1,2 @@
+Aqui temos a complicação da converção de tipos e do espaço usado.
+Para resolver simplesmente podemos trocar as estrutura do codigo para usar um simples scanf.

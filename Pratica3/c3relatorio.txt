@@ -1,0 +1,1 @@
+Neste aqui simplesmente podemos colocar o free dentro do for

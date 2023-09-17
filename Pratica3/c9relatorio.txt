@@ -1,0 +1,1 @@
+Apenas era necessario colocar um free dentro da função

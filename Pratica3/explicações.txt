@@ -1,0 +1,2 @@
+Por algum motivo não consegue usar o gdb no linux,então utilizei no windows e tirei print da tela com as ocasiões e no caso do valgrind consegue usar normalmente e por isso consegue usar o script(garanto que todos os codigos estão funcionando em linux).
+não te print e script de todos pois alguns erros não foram pegos pelos depuradores então me utilizei de logica ou alguns printf para detectar tais erros.

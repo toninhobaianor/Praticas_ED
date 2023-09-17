@@ -1,0 +1,1 @@
+Simplesmente faltou um free pra desalocar a variavel "intArray"

@@ -1,0 +1,1 @@
+Aqui simplemente igualamos a variavel x igual a zero,pois ali pode conter lixo de memoria

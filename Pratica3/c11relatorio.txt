@@ -1,0 +1,2 @@
+Alocamos uma variavel com 8 posições e tentamos copiar uma string de 9 posições para dentro dessa variavel e no final não desalocamos
+Para resolver basta alocarmos 9 posições e no final desalocamos a variavel "msg" com o free

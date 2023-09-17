@@ -1,0 +1,2 @@
+Aqui temos problemas nos dois for`s,o primeiro for não vai ate a ultima posição,fazendo com que a posição 9 esteja vazia,e o outro for print esta posição vazia.
+Para resolver o problema basta colocar em ambos os for`s (i <= 9) pois assim todas as posições teram um valor e seram escritas na tela

@@ -1,0 +1,2 @@
+Aqui neste caso temos um loop infinito de alocações sem nenhum free.
+Para resolver basta colocar algum limite no while e colocar um free no final do while para sempre desalocar ao final das iterações.

@@ -1,0 +1,2 @@
+Não existe divisão por zero.
+Então na função de calc o b não pode ser zero.

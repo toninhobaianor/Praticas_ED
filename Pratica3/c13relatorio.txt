@@ -1,0 +1,1 @@
+Para garantir que o p foi realmente desalocado colocamos o free por ultimo.

@@ -1,0 +1,2 @@
+Não alocamos dinamicamente a matriz e na hora de desalocar a matriz não a desalocamos de maneira correto.
+Neste caso para resolver precisamos alocar com o malloc na variavel "rotatio3D" e na hora de desalocar um matriz precisamos fazer um for para desalocar todos os espaços e depois desalocamos a variavel em si. 

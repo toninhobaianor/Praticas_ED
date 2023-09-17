@@ -1,0 +1,2 @@
+Como a variavel a esta sendo inicializada dentro do for,uma soma nunca sera feita.
+Para que a variavel "a" seja incrementada varias vezes precisamos iniciar ela fora do for.

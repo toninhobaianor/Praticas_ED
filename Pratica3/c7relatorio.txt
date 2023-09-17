@@ -1,0 +1,2 @@
+Alocamos um vetor de 26 posições no for percorremos e preenchemos todas elas apos o for queremos adicionar uma nova posição e colocar o caractere "\0"
+Para resolver basta alocarmos 27 posições e no for percorremos ate (i == 25) pois assim poderemos colocar na ultima posição o "\0"
